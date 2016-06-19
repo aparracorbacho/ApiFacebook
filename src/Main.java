@@ -17,7 +17,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Aaron Code4Rookies.com
+ * @author aparracorbacho
  */
 public class Main extends javax.swing.JFrame {
     Facebook facebook = new FacebookFactory().getInstance();
